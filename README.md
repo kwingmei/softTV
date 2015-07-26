@@ -17,3 +17,7 @@ welcome you all fun it.
  second the gtk for presentation.
  third the good libs support. 
 Fri Oct 11 03:48:44 CST 2013
+
+
+a joke for me
+
